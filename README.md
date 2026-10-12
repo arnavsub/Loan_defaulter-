@@ -1,13 +1,9 @@
-# Loan_defaulter
+# Loan_defaulter - Credit Risk Default Prediction
 
 
-End-to-end ETL pipeline and random forest model that predicts loan default risk, built with Python, SQL (SQLite) and scikit-learn.
+End-to-end ETL Pipeline, Machine learning model using random forest model that that estimates the likelihood a borrower will default on a loan. Built with Python, SQL (SQLite) and scikit-learn.
 
 
-
-# Credit Risk Default Prediction
-
-An end-to-end ETL pipeline and machine learning model that estimates the likelihood a borrower will default on a loan.
 
 ## Overview
 - **Extract:** reads 32,581 loan records from a raw CSV, unchanged
